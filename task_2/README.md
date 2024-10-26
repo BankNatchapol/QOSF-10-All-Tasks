@@ -47,3 +47,8 @@ Noise quickly lowers fidelity, especially for larger sums, as you can see from t
 
 <img src="plots/addition_fidelity_by_noise_level.png" alt="drawing" width="1200"/>
 <img src="plots/circuit_statistics.png" alt="drawing" width="1200"/>
+
+### Is there a way to decrease the effect of noise?, How does the number of gates used affect the results?
+
+There are several ways to decrease the effect of noise in quantum circuits, such as reducing the number of gates, decreasing the circuit depth, and changing the circuit layout. As shown in the plot below, using a higher optimization level (which reduces the number of gates and depth) results in better fidelity, especially at lower noise levels. This indicates that optimizing the circuit can make it more resilient to noise.
+<img src="plots/addition_fidelity_level_comparison.png" alt="drawing" width="1200"/>
