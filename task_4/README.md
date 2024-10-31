@@ -46,7 +46,7 @@ Find a quantum circuit that represents the state vector with a depth of less tha
     <img src="plots/state_comparison.png" alt="drawing" width="400"/>
     <br>
 
-3. **Amplitude Encoding (AE) Circuit Construction**  
+3. **AutoEncoding (AE) Circuit Construction**  
    The AE circuit encodes the given data into quantum states.  
    <br>
     <img src="plots/ae_circuit.png" alt="drawing" width="400"/>
