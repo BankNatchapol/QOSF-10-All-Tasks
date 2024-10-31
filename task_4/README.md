@@ -35,7 +35,7 @@ Find a quantum circuit that represents the state vector with a depth of less tha
 ## Report
 
 1. **Original Circuit**  
-   The original circuit has a depth of 137. To reduce the circuit depth while maintaining high fidelity, a quantum autoencoder technique was applied, resulting in an optimized AE circuit with a depth of 39 and fidelity of 0.9999 to the original state.  
+   The original circuit has a depth of 137. To reduce the circuit depth while maintaining high fidelity, a quantum autoencoder technique was applied, resulting in an optimized circuit with a depth of 39 and fidelity of 0.9999 to the original state.  
     <br>
     <img src="plots/original_circuit.png" alt="drawing" width="400"/>
     <br>
